@@ -1,0 +1,14 @@
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\bin\Debug\net8.0\Variaveis e Constantes.exe
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\bin\Debug\net8.0\Variaveis e Constantes.deps.json
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\bin\Debug\net8.0\Variaveis e Constantes.runtimeconfig.json
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\bin\Debug\net8.0\Variaveis e Constantes.dll
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\bin\Debug\net8.0\Variaveis e Constantes.pdb
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\Variaveis e Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\Variaveis e Constantes.AssemblyInfoInputs.cache
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\Variaveis e Constantes.AssemblyInfo.cs
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\Variaveis e Constantes.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\Variaveis e Constantes.dll
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\refint\Variaveis e Constantes.dll
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\Variaveis e Constantes.pdb
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\Variaveis e Constantes.genruntimeconfig.cache
+C:\Users\pietro.froliveira\source\repos\Variaveis e Constantes\obj\Debug\net8.0\ref\Variaveis e Constantes.dll
