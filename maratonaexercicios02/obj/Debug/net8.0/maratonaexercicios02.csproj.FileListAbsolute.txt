@@ -1,0 +1,15 @@
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\maratonaexercicios02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\maratonaexercicios02.AssemblyInfoInputs.cache
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\maratonaexercicios02.AssemblyInfo.cs
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\maratonaexercicios02.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\maratonaexercicios02.sourcelink.json
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\bin\Debug\net8.0\maratonaexercicios02.exe
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\bin\Debug\net8.0\maratonaexercicios02.deps.json
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\bin\Debug\net8.0\maratonaexercicios02.runtimeconfig.json
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\bin\Debug\net8.0\maratonaexercicios02.dll
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\bin\Debug\net8.0\maratonaexercicios02.pdb
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\maratonaexercicios02.dll
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\refint\maratonaexercicios02.dll
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\maratonaexercicios02.pdb
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\maratonaexercicios02.genruntimeconfig.cache
+C:\Users\pietro.froliveira\source\repos\maratonaexercicios02\obj\Debug\net8.0\ref\maratonaexercicios02.dll

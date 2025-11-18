@@ -208,14 +208,18 @@ adicional, exiba o número total de visitantes até o momento.*/
 
 
 
-int entradaDeVisitantes = 1;
+Random rnd = new Random();
+int totalVisitantes = 0;
 
-do
+while (totalVisitantes < 50)
 {
-    Console.WriteLine($"Número total de visitantes até o momento: {entradaDeVisitantes}");
-    entradaDeVisitantes++;
+    int visitantesAgora = rnd.Next(1, 6); // de 1 até 5 visitantes entrando
+    totalVisitantes += visitantesAgora;
+
+    Console.WriteLine($"Entraram {visitantesAgora} visitantes. Total: {totalVisitantes}");
 }
-while (entradaDeVisitantes <= 50); // se for menor que 50 continue
+
+Console.WriteLine("\nCapacidade máxima atingida. Entrada encerrada.");
 
 
 Console.WriteLine("=============================================================");
@@ -252,4 +256,4 @@ while (tentativas < maxdetentativas)
         Console.WriteLine($"Senha incorreta. Tentativas restantes {maxdetentativas - tentativas}");
     }
 }
-Console.WriteLine("Conta bloqueada por excesso de tentativas.");s
+Console.WriteLine("Conta bloqueada por excesso de tentativas.");
