@@ -1,0 +1,15 @@
+C:\Users\pietro.froliveira\source\repos\testedemesa\bin\Debug\net8.0\testedemesa.exe
+C:\Users\pietro.froliveira\source\repos\testedemesa\bin\Debug\net8.0\testedemesa.deps.json
+C:\Users\pietro.froliveira\source\repos\testedemesa\bin\Debug\net8.0\testedemesa.runtimeconfig.json
+C:\Users\pietro.froliveira\source\repos\testedemesa\bin\Debug\net8.0\testedemesa.dll
+C:\Users\pietro.froliveira\source\repos\testedemesa\bin\Debug\net8.0\testedemesa.pdb
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\testedemesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\testedemesa.AssemblyInfoInputs.cache
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\testedemesa.AssemblyInfo.cs
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\testedemesa.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\testedemesa.sourcelink.json
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\testedemesa.dll
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\refint\testedemesa.dll
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\testedemesa.pdb
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\testedemesa.genruntimeconfig.cache
+C:\Users\pietro.froliveira\source\repos\testedemesa\obj\Debug\net8.0\ref\testedemesa.dll

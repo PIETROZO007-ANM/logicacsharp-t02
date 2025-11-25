@@ -1,0 +1,15 @@
+C:\Users\pietro.froliveira\source\repos\registros\bin\Debug\net8.0\registros.exe
+C:\Users\pietro.froliveira\source\repos\registros\bin\Debug\net8.0\registros.deps.json
+C:\Users\pietro.froliveira\source\repos\registros\bin\Debug\net8.0\registros.runtimeconfig.json
+C:\Users\pietro.froliveira\source\repos\registros\bin\Debug\net8.0\registros.dll
+C:\Users\pietro.froliveira\source\repos\registros\bin\Debug\net8.0\registros.pdb
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\registros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\registros.AssemblyInfoInputs.cache
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\registros.AssemblyInfo.cs
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\registros.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\registros.sourcelink.json
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\registros.dll
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\refint\registros.dll
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\registros.pdb
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\registros.genruntimeconfig.cache
+C:\Users\pietro.froliveira\source\repos\registros\obj\Debug\net8.0\ref\registros.dll

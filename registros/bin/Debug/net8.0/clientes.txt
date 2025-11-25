@@ -1,0 +1,4 @@
+=== Cliente 3 ===
+Nome: Carlos
+Idade: 40
+Email: carlos@example.com
