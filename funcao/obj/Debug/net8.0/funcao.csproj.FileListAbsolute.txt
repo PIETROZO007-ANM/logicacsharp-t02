@@ -1,0 +1,15 @@
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\funcao.AssemblyInfoInputs.cache
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\funcao.AssemblyInfo.cs
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\funcao.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\funcao.sourcelink.json
+C:\Users\pietro.froliveira\source\repos\funcao\bin\Debug\net8.0\funcao.exe
+C:\Users\pietro.froliveira\source\repos\funcao\bin\Debug\net8.0\funcao.deps.json
+C:\Users\pietro.froliveira\source\repos\funcao\bin\Debug\net8.0\funcao.runtimeconfig.json
+C:\Users\pietro.froliveira\source\repos\funcao\bin\Debug\net8.0\funcao.dll
+C:\Users\pietro.froliveira\source\repos\funcao\bin\Debug\net8.0\funcao.pdb
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\funcao.dll
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\refint\funcao.dll
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\funcao.pdb
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\funcao.genruntimeconfig.cache
+C:\Users\pietro.froliveira\source\repos\funcao\obj\Debug\net8.0\ref\funcao.dll
